@@ -1,0 +1,1 @@
+{"name":"winner-ai-practice","version":"1.2.0","private":true,"engines":{"node":">=22"},"scripts":{"start":"node server.cjs"}}
